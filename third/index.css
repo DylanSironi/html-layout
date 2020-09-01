@@ -1,0 +1,45 @@
+body, html {
+    padding: 0;
+    margin: 0px;
+}
+.section {
+    width: 100%;
+    height: 150px;
+}
+.section-1 {
+    background-color: rgb(224, 219, 219);
+    box-sizing: border-box;
+    padding: 25
+}
+.section-big {
+    width: 100%;
+    height: 200px;
+
+}
+
+.section-1-div {
+    background-color: rgb(85, 85, 223);
+    height: 50px;
+    width: 50px;
+}
+.section-2 {
+    background-color: white;
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+.blue {
+    background-color: rgb(88, 186, 224);
+}
+.teal {
+    background-color: rgb(32, 235, 184);
+}
+.green {
+    background-color: rgb(150, 240, 128);
+}
+.yellow {
+    background-color: yellow;
+    
+}
+
+    
